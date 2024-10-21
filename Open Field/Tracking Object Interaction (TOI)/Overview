@@ -1,1 +1,10 @@
+Run the Scripts in the Following Order:
 
+h5tocsv
+rescaleParam
+FineTracker
+Load_k_means
+createOrderedCenters
+ObjectInteractionTime
+ObjectInteractTimeBins
+ObjectInteractionTimewBall
