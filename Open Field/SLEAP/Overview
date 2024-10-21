@@ -1,1 +1,10 @@
+The following folders are present:
 
+centered instance: contains the training_config.json file for one part of the multi-animal SLEAP model
+centroid: contains the training_config.json file for the second component of the multi-animal SLEAP model (multi-animal SLEAP models have both centered instance and centroid components)
+SimBA: contains .sav files, representing a model for each interactive behavior tracked in SimBA
+Tracking Object Interaction (TOI): Contains scripts and an example video for the software
+
+*Disregard the Open Field folder - it just contains the same skeleton file already present in this folder (13_marker_skeleton.json)
+
+The code for evaluating the SLEAP model and extracting model metrics from individual videos is also present.
