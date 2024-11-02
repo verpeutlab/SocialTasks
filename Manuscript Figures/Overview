@@ -1,3 +1,0 @@
-Each figure is named by its order in the manuscript (Figure 1, Figure 2, etc.).
-
-In the folder Colab Files (for graphs and statistics), the code for generating each graph on the figures, along with the statistics and data files, is present. The statistics incorporate data generated from three-chamber and open field SLEAP models, SimBA, and TOI.
